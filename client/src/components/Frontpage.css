@@ -1,0 +1,75 @@
+.faciliteTable {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.25em;
+    margin-top: 1rem;
+}
+
+.cardContainer {
+    border: 1px solid black;
+    background-color: white;
+    padding: 0.5rem;
+    display:flex;
+    flex-direction: column;
+    gap: 14px;
+    padding: 1%;
+    overflow-x: hidden;
+    max-height: auto;
+    overflow-y: scroll;
+    border-radius: 4px;
+    scrollbar-width: 1em;
+}
+
+.cardContainer::-webkit-scrollbar {
+    width: 10px;
+    background-color: rgb(14, 13, 13);
+    border-radius: 4px;
+    overflow-y: auto;
+    }
+
+.cardContainer::-webkit-scrollbar-thumb {
+      width: 10px;
+      border-radius: 7px;
+      background-color: #989898;
+      
+        }
+
+.card {
+    width: 100%;
+    min-height: 90px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+
+.imag {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.search-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+}
+
+input {
+    font-size: 1rem;
+
+}
+
+.card>.name {
+    margin-bottom: 0.25rem;
+
+}
+
+.hide {
+    display: none;
+}

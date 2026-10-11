@@ -1,0 +1,167 @@
+[
+   {
+      "id": "2",
+      "facilityname": "2 Greek Gals",
+      "type":"Food-General",
+      "area":"Calgary-SE",
+      "address":"G5-6 - 510 77 Avenue SE Calgary AB T2H 1C3 Canada",
+      "violation-date":"09/07/2022",
+      "violation":[
+      {
+        "category":"Food Protection (Non-Critical)",
+        "violation":"1) Containers of feta cheese were stored uncovered.--ensure all food is covered with a lid or saran wrap to prevent contamination.",
+        "critical": "no",
+        "status":"Not In Compliance",
+        "comments":"Screen doors / weatherstripping are missing or in disrepair, or other conditions exist to allow the entry of pests. The operator must ensure that the commercial food establishment is constructed to prevent the entry of pests. AR 31/2006 s 17(2)"
+                    
+      }]
+    }
+     ,
+   {
+      "id": "3",
+      "facilityname": "Azalea Korean Cuisine",
+      "type":"Food-General",
+      "area":"Calgary-SE",
+      "address":"1017 - 9650 Harvest Hills Boulevard NE Calgary AB T3K 0B3 Canada"
+                             
+     }
+     ,
+     {
+      "id":"4",
+      "facilityname": "Avesta Shawarma and Grill House",
+      "type":"Food-General",
+      "area":"Calgary-NE",
+      "address":"3130 - 5850 88 Avenue NE Calgary AB T3J 0J2 Canada",
+      "inspectiondate": "Feb 27, 2024",
+      "violation":[
+         {
+         "complianceid": "932c0c7a-18d7-ee11-904d-000d3a09d70b",
+        "question": "04. Does the operator use approved methods for cleaning and sanitizing equipment, utensils, and surfaces?",
+        "responsecomment": "Food prep counters were not sanitized. Staff were reversing clean and sanitize steps. The approved clean-in-place method includes: wash with detergent, rinse with clean water, then sanitize with an approved sanitizer.<br />**Feb 27, 2024: soap and bleach were mixed together in sanitizing bucket for front service. No sanitizer prepared for back food prep. Prepare 100 ppm with 1/2 tsp household unscented bleach and 1 L of water - do not mix with soap. Provide sanitizing solution at all food prep areas where open foods are handled.",
+        "critical": "Yes",
+        "comments": "Equipment and food contact surfaces are not being cleaned and sanitized properly. A commercial food establishment, all equipment and utensils in it and all surfaces in it with which food comes into contact must be maintained in a sanitary condition and, without limiting the foregoing, must be washed and sanitized in a manner that removes contamination. AR 31/2006 s 28(2)",
+        "status": "Not In Compliance",
+        "category": "Equipment Sanitation"
+  },
+  {
+      "complianceid": "9ae60680-18d7-ee11-904d-000d3a09d70b",
+      "question": "06. Are appropriate food handling practices and plans in place to ensure that food is handled in a manner that makes it safe to eat?",
+      "responsecomment": "1) Sliced chicken shawarma and beef donair were stored at room temp near the cook line at room temp. Temps ranged 40-47C. Secondary cook step would only be conducted when orders were placed (destroyed). Conduct secondary cook step immediately after shaving off cone and maintain at 60C or higher until service.<br />2) Meat that had received secondary cook step were stored at room temp. Temp measured 48C (destroyed). Provide hot holding unit and maintain meat that has received secondary cook step at 60C or higher.",
+      "critical": "Yes",
+      "comments": "Food was not being handled in a manner that makes it safe to eat. All food processing must be done in a manner that makes the food safe to eat. AR 31/2006 s 24<br />Operators were not following provincial standards for preparation and service of donairs and shawarmas and similar products at the time of inspection. All food processing must be done in a manner that makes the food safe to eat. AR 31/2006 s 24",
+      "status": "Not In Compliance",
+      "category": "Food Handling"
+  },
+  {
+      "complianceid": "42bf12eb-caeb-ee11-a1fe-000d3af45232",
+      "question": "08. Do food handlers ensure that food is protected from contamination (unless noted elsewhere)(Non-Critical)?",
+      "responsecomment": "1) Sneeze guard/barrier at front service prep line was inadequate in height and was only approximately 3-4 feet high. Extend barrier height of sneeze guard to 6 feet. If extend to 5 feet, there must be a 1 foot return piece.<br />2) Staff personal items (coats, bags) were stored directly on top of food (bags of rice and pasta) in the back storage area. Staff medication and food were stored on food storage shelf next to rear prep table. Provide separate area where staff can store personal items to limit contamination of food prep and food storage areas. <br />3) Bucket of clean utensils was stored directly on the floor in the back area. Store utensils at least 6 inches off the floor and in a sanitary manner.",
+      "critical": "No",
+      "comments": "Foods and/or utensils are not being stored in a satisfactory manner. All food, equipment, and utensils must be stored in a manner that protects them from contamination. AR 31/2006 s 23 &amp; 28<br />Articles not associated with food processing, preparation, handling, serving, or storage are stored with food. All articles and materials in a commercial food establishment that are not associated with or required for the operation or maintenance of the food areas must be stored separately from the food and the food areas and in a manner that contaminates neither. AR 31/2006 s 20(1)",
+      "status": "Not In Compliance",
+      "category": "Food Protection (Non-Critical)"
+  },
+  {
+      "complianceid": "9ee60680-18d7-ee11-904d-000d3a09d70b",
+      "question": "10. Are food temperatures during storage and processing being controlled to maximize food safety?",
+      "responsecomment": "1) Half-cooked potato wedges were stored at room temp for extended period of time. Temp measured 24C (destroyed). Keep potatoes in cooler during slow times.<br />2) A fine-tip thermometer or infrared thermometer was not provided for the monitoring of pieces/slices of shawarma or donair meat. Please obtain.",
+      "critical": "Yes",
+      "comments": "High risk foods are not being kept at proper temperatures. High risk foods must be kept at a temperature of less than 4&#176;C or greater than 60&#176;C at all times. AR 31/2006 s 2(6) &amp; s 25(1)<br />Functional thermometers are not available for monitoring foods during cooling, cooking, reheating and/or display. An operator shall ensure that all refrigeration and hot holding equipment used in the food establishment are capable of maintaining the respective temperatures required by section 26 and equipped with an accurate thermometer. AR 31/2006 s 18(b)(ii)(iii)",
+      "status": "Not In Compliance",
+      "category": "Temperature Control"
+  },
+  {
+      "complianceid": "c3e60680-18d7-ee11-904d-000d3a09d70b",
+      "question": "12. Are there adequate and properly operating dish washing facilities to effectively clean and sanitize equipment and utensils (unless noted elsewhere)(Non-Critical)?",
+      "responsecomment": "Sanitizer test strips were not provided for chlorine. Please obtain.",
+      "critical": "No",
+      "comments": "Chemical testing equipment is not available for measuring sanitizing agent concentrations and/or an adequate thermometer is not available for measuring water temperatures. A commercial food establishment must have all the facilities, equipment and utensils that are necessary to ensure its safe operation and maintenance and all equipment and utensils in it and all surfaces in it with which food comes into contact must be maintained in a sanitary condition and, without limiting the foregoing, must be washed and sanitized in a manner that removes contamination. AR 31/2006 s 28(1) &amp;(2)",
+      "status": "Not In Compliance",
+      "category": "Dishwashing (Non-Critical)"
+  },
+  {
+      "complianceid": "cce60680-18d7-ee11-904d-000d3a09d70b",
+      "question": "13. Are properly operating hand washing sink(s) accessible to food handlers, located in suitable areas, and stocked with appropriate hand washing supplies? ",
+      "responsecomment": "Broom and dust pan on long handle were stored in front of the front hand sink. Hand washing stations must be easily accessible - do not obstruct hand sinks.",
+      "critical": "Yes",
+      "comments": "Handwash facilities are inadequate in number and/or location. An operator must ensure that a commercial food establishment has handwashing stations, adequate in number and location, to ensure convenient access to all food handlers. AR 31/2006 s 17(1)(e)",
+      "status": "Not In Compliance",
+      "category": "Hand Sinks"
+  },
+  {
+      "complianceid": "dee60680-18d7-ee11-904d-000d3a09d70b",
+      "question": "14. Does the facility have an adequate supply of potable hot and cold running water and is the water sampled at required intervals?",
+      "responsecomment": "Hot water was only luke warm during time of inspection. Please adjust/repair temp on instant heat system.",
+      "critical": "Yes",
+      "comments": "There is an inadequate supply of hot and cold potable water. An operator must ensure that the commercial food establishment is supplied with hot and cold running water that is safe for human consumption and available in quantities sufficient to meet the needs of the food establishment. AR 31/2006 s 17(1)(f)(i)",
+      "status": "Not In Compliance",
+      "category": "Water Quality and Source"
+  },
+  {
+      "complianceid": "d82c0c7a-18d7-ee11-904d-000d3a09d70b",
+      "question": "21. Is the facility properly constructed and maintained in a state of good repair to allow for the safe and sanitary handling of food?",
+      "responsecomment": "REPEATING VIOLATIONS:<br />1) The floor drains in the front prep area were either missing or loose and there was an accumulation of old food debris inside the drains. Please clean out floor drains and properly secure and install drain covers.<br />2) The small commercial deep fryer for falafel was not placed under the exhaust canopy. Ensure all open deep frying is done under the ventilation canopy.",
+      "critical": "No",
+      "comments": "Floor surfaces are unsuitable, unsatisfactory, or in disrepair. An operator shall ensure that a food establishment is of sound construction and in a good state of repair and is so designed as to facilitate the effective cleaning and sanitizing of it and all equipment, utensils and surfaces with which food comes into contact in it. AR 31/2006 s 17(1) &amp; 19<br />The ventilation or exhaust system is not being properly maintained or is inadequate. An operator shall ensure that a commercial food establishment is equipped with a properly operating means of providing ventilation to food areas that are subject to the generation or accumulation of odours, fumes, steam, vapours, smoke, or excessive heat. AR 31/2006 s 17(1)(f)(iv)",
+      "status": "Not In Compliance",
+      "category": "General Construction / Maintenance"
+  },
+  {
+      "complianceid": "b3399934-caeb-ee11-a1fe-000d3af45232",
+      "question": "21. Is the facility properly constructed and maintained in a state of good repair to allow for the safe and sanitary handling of food?",
+      "responsecomment": "Left tap fixture of 3 comp sink was leaking. Please repair.",
+      "critical": "No",
+      "comments": "The plumbing system and/or sanitary drainage system is in disrepair or not operating properly. A person may not operate a commercial food establishment unless it is constructed and maintained in accordance with it&#39;s approval. And; An operator shall ensure that a commercial food establishment is connected to a lawful and properly operating sewage disposal system. AR 31/2006 s 19(b) &amp; 17(1)(f)(ii)",
+      "status": "Not In Compliance",
+      "category": "General Construction / Maintenance"
+  },
+  {
+      "complianceid": "72e60680-18d7-ee11-904d-000d3a09d70b",
+      "question": "22. Are utensils and equipment maintained in a condition and a manner that ensures the safe handling of food?",
+      "responsecomment": "REPEATING VIOLATION:<br />The sandwich knife used at the front counter was stored in the gap between the prep cooler and counter. This area is insanitary and difficult to clean. Please store utensils in a sanitary manner.",
+      "critical": "No",
+      "comments": "Dishes / utensils are being stored in an improper manner. All equipment and utensils in a food establishment must be kept in good working order and condition and maintained in a manner that ensures the safe and sanitary handling of food. AR 31/2006 s 28(3)",
+      "status": "Not In Compliance",
+      "category": "Utensil / Equipment Storage and Condition"
+  },
+  {
+      "complianceid": "2ae70680-18d7-ee11-904d-000d3a09d70b",
+      "question": "23. Is the facility maintained in a clean and sanitary condition?",
+      "responsecomment": "Lower shelf of rear food prep table was lined with dirty/old cardboard. Remove cardboard liners and routinely clean/sanitize surfaces.",
+      "critical": "No",
+      "comments": "The indicated areas are not being kept clean and sanitary. A commercial food establishment, all equipment and utensils in it and all surfaces in it in which food comes into contact must be maintained in a sanitary condition and, without limiting the foregoing, must be washed and sanitized in a manner that removes contamination. AR 31/2006 s 28(2)",
+      "status": "Not In Compliance",
+      "category": "Housekeeping"
+  }
+]},
+  { 
+   "id":"",
+   "facilityname": "Astoria Restaurant",
+     "type":"Food-General",
+     "area":"Calgary-NE",
+     "address":"2027 Pegasus Road NE Calgary AB T2E 8C3 Canada",
+   "inspectiondate":"Nov 25, 2022",
+   "violation":[{
+            "complianceid": "c2c47a6f-086d-ed11-81ac-0022486dc312",
+               "question": "10. Are food temperatures during storage and processing being controlled to maximize food safety?",
+               "responsecomment": "Probe thermometer unavailable. Operator indicated thermometers will be on-site before operations begin",
+               "critical":"Yes",
+               "comments": "Functional thermometers are not available for monitoring foods during cooling, cooking, reheating and/or display. An operator shall ensure that all refrigeration and hot holding equipment used in the food establishment are capable of maintaining the respective temperatures required by section 26 and equipped with an accurate thermometer. AR 31/2006 s 18(b)(ii)(iii)",
+               "status":"Not In Compliance",
+               "category": "Temperature Control"
+            },
+            {
+               "complianceid": "74c57a6f-086d-ed11-81ac-0022486dc312",
+               "question": "18. Are general nuisance conditions, other than those noted in other violations, being prevented at this food facility (Non-Critical)?",
+               "responsecomment": "Ice build-up on floor of walk-in freezer. Operator indicated freezer had been serviced and during next thaw cycle the ice will be remediated",
+               "critical":"No",
+               "comments": "A practice or condition at this food establishment is creating a nuisance. No person shall create, commit or maintain a nuisance. AR 243/2003 s 2(1)",
+               "status":"Not In Compliance",
+               "category": "Nuisance (Non-Critical)"
+             }]
+   }
+
+ 
+]
+
+   

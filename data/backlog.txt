@@ -1,0 +1,16 @@
+user portal for saving favorites  2
+show best 5 restaraunts in the area    3
+show good restaraunts until bad ones are searched for   3
+give advertising rights to customers and offer coupons  1
+state sevarity of all violations   1 
+use emoji instead of charts?  1
+
+
+
+
+
+
+
+
+
+

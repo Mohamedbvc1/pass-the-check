@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>search bar</title>
+    <link rel="stylesheet" href="searchbar.css">
+    
+</head>
+<body>
+   
+    <div class="search-wrapper">
+        <label for="search">Restaurant</label>
+        <input type="search" id="search" data-search>
+    </div>
+   
+   <div class="restaurant-card" > </div>
+   <template data-rest-template > 
+    <div class="card" data-rest-cards-container> 
+       <a href="chartsdisplay.html" target="_blank" onclick="stockdata()">
+         <div class="name" data-name></div></a>
+        <div class="community" data-community></div>
+        <div class="address" data-address></div>
+    </div> 
+</template>
+    
+   
+   <script src="search.js" defer></script>
+
+</body>
+</html>

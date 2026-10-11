@@ -1,0 +1,108 @@
+.body {
+    flex-direction: column;
+    justify-content: center;
+    background-color: transparent;
+    border-radius: 4px;
+    border-color: #fffdd0;
+    border-width: 2px;
+    border-style: solid;
+    border-top: transparent;
+    padding: 2%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.card {
+    font-size: small;
+    border: 1px solid rgb(133, 133, 133);
+    flex-direction: column;
+    background-color: white;
+    margin: 12px;
+    padding: 6px;
+    max-height: 100px;
+    max-width: 350px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+  }
+
+  .cardContainer {
+    font-family: "Roboto Slab", serif;
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    padding: auto;
+    max-height: 400px;
+    overflow-y: scroll;
+    border-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: transparent;
+    align-items: center;
+  }
+  
+  .cardContainer::-webkit-scrollbar {
+    width: 10px;
+    background-color: transparent;
+
+  }
+  
+  .cardContainer::-webkit-scrollbar-thumb {
+    width: 10px;
+    border-radius: 7px;
+    background-color: #fffdd0;
+  }
+  
+
+.search-wrapper {
+    margin: 2px;
+}
+
+input {
+    font-size: 1rem;
+
+}
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #447604;
+  color: #fffff0;
+  font-weight: 600;
+  font-size: large;
+  border-color: transparent;
+}
+
+.card>.name {
+    margin-bottom: 0.25rem;
+}
+
+.hide {
+    display: none;
+}
+
+.infoBanner {
+  font-family: "Roboto Slab", serif;
+   margin: 4px; 
+   font-size: 150%;
+   font-weight: 300;
+}
+
+.form-select {
+  font-family: "Roboto Slab", serif;
+  margin-bottom: 20px;
+}
+
+.form-control {
+    margin-top: .5rem;
+    margin-bottom: 10px;
+    font-family: "Roboto Slab", serif;
+}
+
+.facilityCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

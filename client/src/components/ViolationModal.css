@@ -1,0 +1,120 @@
+/* defaults */
+/* =============================================== */
+/* blurred background modal for bootstrap v4 */
+body.modal-open> :not(.modal) {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    --light: hsl(0, 0%, 100%);
+    --background: linear-gradient(to right bottom, #47624F(236, 50%, 50%), #6CC551(195, 50%, 50%));
+    color: #fffff0;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    font-family: "Roboto Slab", serif;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #fffdd0, #447604);
+}
+
+
+
+/* modal */
+/* =============================================== */
+.modal-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+
+    display: none;
+    justify-content: left;
+    align-items: flex-start;
+    color: #fffff0;
+    width: 100%;
+    height: 100%;
+
+    background: hsla(0, 0%, 40%, .6);
+}
+
+/* using :target */
+.modal-container:target {
+    display: flex;
+}
+
+.modal {
+    width: 60rem;
+    padding: 4rem 2rem;
+    border-radius: .8rem;
+
+    color: var(--light);
+    background: var(--background);
+    box-shadow: .4rem .4rem 2.4rem .2rem hsla(236, 50%, 50%, 0.3);
+    position: relative;
+
+    overflow: hidden;
+}
+
+.modal__details {
+
+    color: #47624F;
+
+    margin-bottom: 4rem;
+    padding-bottom: 4rem;
+    border-bottom: 1px solid hsla(0, 0%, 100%, .4);
+}
+
+.modal__title {
+    font-size: 3.2rem;
+    font-family: "Roboto Slab", serif;
+}
+
+.modal__description {
+    margin-top: 2rem;
+    font-family: "Roboto Slab", serif;
+    font-size: 1.6rem;
+    font-style: italic;
+}
+
+.modal__text {
+    margin-bottom: 1rem;
+    font-family: "Roboto Slab", serif;
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+.modal__btn {
+    padding: 1rem 1.6rem;
+    border: 1px solid hsla(0, 0%, 100%, .4);
+    background-color: #47624F;
+    border-radius: 100rem;
+
+    color: inherit;
+    background: transparent;
+    font-size: 1.4rem;
+    font-family: inherit;
+    letter-spacing: .2rem;
+
+    transition: .2s;
+    cursor: pointer;
+}
+
+.modal__btn:hover,
+.modal__btn:focus {
+    border-color: hsla(0, 0%, 100%, .6);
+    transform: translateY(-.2rem);
+}
